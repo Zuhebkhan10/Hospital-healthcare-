@@ -31,6 +31,7 @@ Microsoft Excel	Dataset preparation
 Figma	Dashboard UI design
 
 Step-by-Step Project Workflow
+
 Step 1: Data Collection
 Hospital data was collected in Excel format.
 
@@ -52,6 +53,7 @@ Formatting dates
 Removing duplicate records
 Creating calculated columns
 
+Step 3:
 # Fill missing value
 Cleaned data was imported into MySQL database.
 
@@ -64,8 +66,8 @@ Disease VARCHAR(50),
 Doctor_ID INT,
 Admission_Date DATE
 );
-
 Data can be connected directly to Power BI.
+
 Step 4: UI Design in Figma
 Before building the dashboard, the layout was designed in Figma.
 Design elements:
@@ -175,11 +177,11 @@ Salary distribution chart
 Department breakdown
 
 Key Features
-✔ Interactive filters
-✔ Dynamic charts
-✔ Drill-through reports
-✔ Real-time analytics
-✔ Multi-page dashboards
+Interactive filters
+Dynamic charts
+Drill-through reports
+Real-time analytics
+Multi-page dashboards
 
 Dashboard Preview
 Example visuals:
